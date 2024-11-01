@@ -7,7 +7,7 @@ body {
   }
   
   /* Título da página */
-  .tit {
+  .tt {
     text-align: center; /* Centraliza o título da página */
     font-size: 3em; /* Define o tamanho da fonte do título */
     font-weight: bold; /* Define o peso da fonte do título */
@@ -24,19 +24,19 @@ body {
   }
   
   /* Links do menu */
-  .subt ul {
+  .subt {
     list-style: none; /* Remove os marcadores da lista */
     margin: 0; /* Remove as margens da lista */
     padding: 0; /* Remove o preenchimento da lista */
     text-align: center; /* Centraliza os links do menu */
   }
   
-  .subt ul li {
+  .subt {
     display: inline-block; /* Exibe os links do menu na mesma linha */
     margin: 0 10px; /* Define as margens dos links do menu */
   }
   
-  .subt ul li a {
+  .subt {
     text-decoration: none; /* Remove o sublinhado dos links */
     color: #333; /* Define a cor dos links */
     font-weight: bold; /* Define o peso da fonte dos links */
